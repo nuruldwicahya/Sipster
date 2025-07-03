@@ -1,0 +1,361 @@
+date,source,visitors
+2025-01-01,IG Ads,224
+2025-01-01,GoFood,421
+2025-01-01,Google Search,474
+2025-01-01,Email Campaign,368
+2025-01-02,IG Ads,272
+2025-01-02,GoFood,493
+2025-01-02,Google Search,268
+2025-01-02,Email Campaign,450
+2025-01-03,IG Ads,423
+2025-01-03,GoFood,426
+2025-01-03,Google Search,435
+2025-01-03,Email Campaign,79
+2025-01-04,IG Ads,463
+2025-01-04,GoFood,105
+2025-01-04,Google Search,333
+2025-01-04,Email Campaign,248
+2025-01-05,IG Ads,419
+2025-01-05,GoFood,397
+2025-01-05,Google Search,197
+2025-01-05,Email Campaign,489
+2025-01-06,IG Ads,323
+2025-01-06,GoFood,287
+2025-01-06,Google Search,267
+2025-01-06,Email Campaign,343
+2025-01-07,IG Ads,418
+2025-01-07,GoFood,340
+2025-01-07,Google Search,443
+2025-01-07,Email Campaign,315
+2025-01-08,IG Ads,183
+2025-01-08,GoFood,133
+2025-01-08,Google Search,245
+2025-01-08,Email Campaign,289
+2025-01-09,IG Ads,431
+2025-01-09,GoFood,171
+2025-01-09,Google Search,117
+2025-01-09,Email Campaign,57
+2025-01-10,IG Ads,193
+2025-01-10,GoFood,459
+2025-01-10,Google Search,399
+2025-01-10,Email Campaign,190
+2025-01-11,IG Ads,93
+2025-01-11,GoFood,177
+2025-01-11,Google Search,444
+2025-01-11,Email Campaign,327
+2025-01-12,IG Ads,201
+2025-01-12,GoFood,222
+2025-01-12,Google Search,342
+2025-01-12,Email Campaign,252
+2025-01-13,IG Ads,69
+2025-01-13,GoFood,365
+2025-01-13,Google Search,190
+2025-01-13,Email Campaign,235
+2025-01-14,IG Ads,187
+2025-01-14,GoFood,387
+2025-01-14,Google Search,178
+2025-01-14,Email Campaign,450
+2025-01-15,IG Ads,384
+2025-01-15,GoFood,464
+2025-01-15,Google Search,445
+2025-01-15,Email Campaign,361
+2025-01-16,IG Ads,56
+2025-01-16,GoFood,113
+2025-01-16,Google Search,207
+2025-01-16,Email Campaign,341
+2025-01-17,IG Ads,388
+2025-01-17,GoFood,214
+2025-01-17,Google Search,478
+2025-01-17,Email Campaign,185
+2025-01-18,IG Ads,483
+2025-01-18,GoFood,141
+2025-01-18,Google Search,277
+2025-01-18,Email Campaign,286
+2025-01-19,IG Ads,58
+2025-01-19,GoFood,275
+2025-01-19,Google Search,54
+2025-01-19,Email Campaign,288
+2025-01-20,IG Ads,68
+2025-01-20,GoFood,233
+2025-01-20,Google Search,295
+2025-01-20,Email Campaign,376
+2025-01-21,IG Ads,482
+2025-01-21,GoFood,334
+2025-01-21,Google Search,161
+2025-01-21,Email Campaign,259
+2025-01-22,IG Ads,79
+2025-01-22,GoFood,346
+2025-01-22,Google Search,90
+2025-01-22,Email Campaign,191
+2025-01-23,IG Ads,362
+2025-01-23,GoFood,332
+2025-01-23,Google Search,210
+2025-01-23,Email Campaign,82
+2025-01-24,IG Ads,275
+2025-01-24,GoFood,142
+2025-01-24,Google Search,182
+2025-01-24,Email Campaign,442
+2025-01-25,IG Ads,452
+2025-01-25,GoFood,191
+2025-01-25,Google Search,182
+2025-01-25,Email Campaign,494
+2025-01-26,IG Ads,303
+2025-01-26,GoFood,115
+2025-01-26,Google Search,166
+2025-01-26,Email Campaign,372
+2025-01-27,IG Ads,139
+2025-01-27,GoFood,125
+2025-01-27,Google Search,496
+2025-01-27,Email Campaign,366
+2025-01-28,IG Ads,385
+2025-01-28,GoFood,75
+2025-01-28,Google Search,169
+2025-01-28,Email Campaign,108
+2025-01-29,IG Ads,385
+2025-01-29,GoFood,69
+2025-01-29,Google Search,144
+2025-01-29,Email Campaign,400
+2025-01-30,IG Ads,309
+2025-01-30,GoFood,490
+2025-01-30,Google Search,275
+2025-01-30,Email Campaign,346
+2025-01-31,IG Ads,212
+2025-01-31,GoFood,71
+2025-01-31,Google Search,333
+2025-01-31,Email Campaign,417
+2025-02-01,IG Ads,166
+2025-02-01,GoFood,81
+2025-02-01,Google Search,415
+2025-02-01,Email Campaign,182
+2025-02-02,IG Ads,181
+2025-02-02,GoFood,58
+2025-02-02,Google Search,397
+2025-02-02,Email Campaign,482
+2025-02-03,IG Ads,489
+2025-02-03,GoFood,484
+2025-02-03,Google Search,230
+2025-02-03,Email Campaign,326
+2025-02-04,IG Ads,417
+2025-02-04,GoFood,72
+2025-02-04,Google Search,357
+2025-02-04,Email Campaign,170
+2025-02-05,IG Ads,229
+2025-02-05,GoFood,105
+2025-02-05,Google Search,89
+2025-02-05,Email Campaign,309
+2025-02-06,IG Ads,277
+2025-02-06,GoFood,107
+2025-02-06,Google Search,311
+2025-02-06,Email Campaign,89
+2025-02-07,IG Ads,171
+2025-02-07,GoFood,154
+2025-02-07,Google Search,216
+2025-02-07,Email Campaign,342
+2025-02-08,IG Ads,240
+2025-02-08,GoFood,474
+2025-02-08,Google Search,471
+2025-02-08,Email Campaign,398
+2025-02-09,IG Ads,262
+2025-02-09,GoFood,86
+2025-02-09,Google Search,378
+2025-02-09,Email Campaign,268
+2025-02-10,IG Ads,498
+2025-02-10,GoFood,194
+2025-02-10,Google Search,123
+2025-02-10,Email Campaign,62
+2025-02-11,IG Ads,217
+2025-02-11,GoFood,360
+2025-02-11,Google Search,453
+2025-02-11,Email Campaign,234
+2025-02-12,IG Ads,221
+2025-02-12,GoFood,258
+2025-02-12,Google Search,383
+2025-02-12,Email Campaign,241
+2025-02-13,IG Ads,290
+2025-02-13,GoFood,200
+2025-02-13,Google Search,368
+2025-02-13,Email Campaign,65
+2025-02-14,IG Ads,132
+2025-02-14,GoFood,238
+2025-02-14,Google Search,72
+2025-02-14,Email Campaign,198
+2025-02-15,IG Ads,126
+2025-02-15,GoFood,352
+2025-02-15,Google Search,63
+2025-02-15,Email Campaign,104
+2025-02-16,IG Ads,361
+2025-02-16,GoFood,158
+2025-02-16,Google Search,463
+2025-02-16,Email Campaign,210
+2025-02-17,IG Ads,311
+2025-02-17,GoFood,416
+2025-02-17,Google Search,449
+2025-02-17,Email Campaign,429
+2025-02-18,IG Ads,310
+2025-02-18,GoFood,451
+2025-02-18,Google Search,347
+2025-02-18,Email Campaign,414
+2025-02-19,IG Ads,226
+2025-02-19,GoFood,160
+2025-02-19,Google Search,243
+2025-02-19,Email Campaign,475
+2025-02-20,IG Ads,348
+2025-02-20,GoFood,66
+2025-02-20,Google Search,386
+2025-02-20,Email Campaign,421
+2025-02-21,IG Ads,126
+2025-02-21,GoFood,245
+2025-02-21,Google Search,440
+2025-02-21,Email Campaign,382
+2025-02-22,IG Ads,90
+2025-02-22,GoFood,89
+2025-02-22,Google Search,164
+2025-02-22,Email Campaign,339
+2025-02-23,IG Ads,307
+2025-02-23,GoFood,344
+2025-02-23,Google Search,372
+2025-02-23,Email Campaign,330
+2025-02-24,IG Ads,425
+2025-02-24,GoFood,264
+2025-02-24,Google Search,325
+2025-02-24,Email Campaign,425
+2025-02-25,IG Ads,112
+2025-02-25,GoFood,483
+2025-02-25,Google Search,499
+2025-02-25,Email Campaign,320
+2025-02-26,IG Ads,458
+2025-02-26,GoFood,76
+2025-02-26,Google Search,360
+2025-02-26,Email Campaign,291
+2025-02-27,IG Ads,387
+2025-02-27,GoFood,318
+2025-02-27,Google Search,316
+2025-02-27,Email Campaign,275
+2025-02-28,IG Ads,212
+2025-02-28,GoFood,187
+2025-02-28,Google Search,149
+2025-02-28,Email Campaign,478
+2025-03-01,IG Ads,344
+2025-03-01,GoFood,200
+2025-03-01,Google Search,174
+2025-03-01,Email Campaign,218
+2025-03-02,IG Ads,174
+2025-03-02,GoFood,459
+2025-03-02,Google Search,443
+2025-03-02,Email Campaign,235
+2025-03-03,IG Ads,168
+2025-03-03,GoFood,283
+2025-03-03,Google Search,211
+2025-03-03,Email Campaign,433
+2025-03-04,IG Ads,109
+2025-03-04,GoFood,404
+2025-03-04,Google Search,173
+2025-03-04,Email Campaign,277
+2025-03-05,IG Ads,425
+2025-03-05,GoFood,500
+2025-03-05,Google Search,259
+2025-03-05,Email Campaign,235
+2025-03-06,IG Ads,90
+2025-03-06,GoFood,230
+2025-03-06,Google Search,336
+2025-03-06,Email Campaign,308
+2025-03-07,IG Ads,89
+2025-03-07,GoFood,235
+2025-03-07,Google Search,384
+2025-03-07,Email Campaign,297
+2025-03-08,IG Ads,359
+2025-03-08,GoFood,167
+2025-03-08,Google Search,279
+2025-03-08,Email Campaign,452
+2025-03-09,IG Ads,264
+2025-03-09,GoFood,167
+2025-03-09,Google Search,341
+2025-03-09,Email Campaign,473
+2025-03-10,IG Ads,473
+2025-03-10,GoFood,114
+2025-03-10,Google Search,325
+2025-03-10,Email Campaign,175
+2025-03-11,IG Ads,447
+2025-03-11,GoFood,258
+2025-03-11,Google Search,395
+2025-03-11,Email Campaign,349
+2025-03-12,IG Ads,390
+2025-03-12,GoFood,120
+2025-03-12,Google Search,360
+2025-03-12,Email Campaign,183
+2025-03-13,IG Ads,457
+2025-03-13,GoFood,196
+2025-03-13,Google Search,224
+2025-03-13,Email Campaign,210
+2025-03-14,IG Ads,110
+2025-03-14,GoFood,91
+2025-03-14,Google Search,259
+2025-03-14,Email Campaign,265
+2025-03-15,IG Ads,308
+2025-03-15,GoFood,125
+2025-03-15,Google Search,344
+2025-03-15,Email Campaign,303
+2025-03-16,IG Ads,373
+2025-03-16,GoFood,445
+2025-03-16,Google Search,151
+2025-03-16,Email Campaign,142
+2025-03-17,IG Ads,498
+2025-03-17,GoFood,282
+2025-03-17,Google Search,57
+2025-03-17,Email Campaign,135
+2025-03-18,IG Ads,111
+2025-03-18,GoFood,264
+2025-03-18,Google Search,184
+2025-03-18,Email Campaign,441
+2025-03-19,IG Ads,333
+2025-03-19,GoFood,414
+2025-03-19,Google Search,290
+2025-03-19,Email Campaign,430
+2025-03-20,IG Ads,101
+2025-03-20,GoFood,114
+2025-03-20,Google Search,495
+2025-03-20,Email Campaign,67
+2025-03-21,IG Ads,476
+2025-03-21,GoFood,270
+2025-03-21,Google Search,62
+2025-03-21,Email Campaign,403
+2025-03-22,IG Ads,135
+2025-03-22,GoFood,87
+2025-03-22,Google Search,117
+2025-03-22,Email Campaign,313
+2025-03-23,IG Ads,493
+2025-03-23,GoFood,321
+2025-03-23,Google Search,248
+2025-03-23,Email Campaign,266
+2025-03-24,IG Ads,231
+2025-03-24,GoFood,115
+2025-03-24,Google Search,255
+2025-03-24,Email Campaign,406
+2025-03-25,IG Ads,335
+2025-03-25,GoFood,173
+2025-03-25,Google Search,414
+2025-03-25,Email Campaign,200
+2025-03-26,IG Ads,110
+2025-03-26,GoFood,222
+2025-03-26,Google Search,472
+2025-03-26,Email Campaign,222
+2025-03-27,IG Ads,352
+2025-03-27,GoFood,361
+2025-03-27,Google Search,365
+2025-03-27,Email Campaign,105
+2025-03-28,IG Ads,419
+2025-03-28,GoFood,73
+2025-03-28,Google Search,87
+2025-03-28,Email Campaign,428
+2025-03-29,IG Ads,231
+2025-03-29,GoFood,279
+2025-03-29,Google Search,259
+2025-03-29,Email Campaign,372
+2025-03-30,IG Ads,280
+2025-03-30,GoFood,429
+2025-03-30,Google Search,477
+2025-03-30,Email Campaign,273
+2025-03-31,IG Ads,198
+2025-03-31,GoFood,437
+2025-03-31,Google Search,294
+2025-03-31,Email Campaign,408

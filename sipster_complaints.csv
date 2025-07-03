@@ -1,0 +1,51 @@
+complaint_id,order_id,issue
+CMP0001,O0138,Terlambat kirim
+CMP0002,O0752,Produk rusak
+CMP0003,O0188,Terlambat kirim
+CMP0004,O0742,Rasa tidak sesuai
+CMP0005,O0785,Botol bocor
+CMP0006,O0604,Salah pesanan
+CMP0007,O0939,Botol bocor
+CMP0008,O0840,Botol bocor
+CMP0009,O0960,Salah pesanan
+CMP0010,O0522,Produk rusak
+CMP0011,O0086,Salah pesanan
+CMP0012,O0156,Salah pesanan
+CMP0013,O0918,Terlambat kirim
+CMP0014,O0008,Produk rusak
+CMP0015,O0608,Salah pesanan
+CMP0016,O0379,Salah pesanan
+CMP0017,O0691,Rasa tidak sesuai
+CMP0018,O0665,Rasa tidak sesuai
+CMP0019,O0465,Terlambat kirim
+CMP0020,O0389,Terlambat kirim
+CMP0021,O0329,Salah pesanan
+CMP0022,O0450,Salah pesanan
+CMP0023,O0181,Botol bocor
+CMP0024,O0521,Produk rusak
+CMP0025,O0740,Terlambat kirim
+CMP0026,O0603,Salah pesanan
+CMP0027,O0287,Terlambat kirim
+CMP0028,O0968,Produk rusak
+CMP0029,O0792,Terlambat kirim
+CMP0030,O0100,Botol bocor
+CMP0031,O0238,Botol bocor
+CMP0032,O0305,Terlambat kirim
+CMP0033,O0506,Produk rusak
+CMP0034,O0350,Botol bocor
+CMP0035,O0050,Produk rusak
+CMP0036,O0578,Botol bocor
+CMP0037,O0531,Botol bocor
+CMP0038,O0919,Terlambat kirim
+CMP0039,O0538,Produk rusak
+CMP0040,O0594,Rasa tidak sesuai
+CMP0041,O0865,Produk rusak
+CMP0042,O0951,Salah pesanan
+CMP0043,O0437,Terlambat kirim
+CMP0044,O0293,Salah pesanan
+CMP0045,O0331,Botol bocor
+CMP0046,O0394,Rasa tidak sesuai
+CMP0047,O0327,Rasa tidak sesuai
+CMP0048,O0776,Botol bocor
+CMP0049,O0183,Terlambat kirim
+CMP0050,O0977,Rasa tidak sesuai
